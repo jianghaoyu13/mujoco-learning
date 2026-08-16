@@ -44,6 +44,8 @@ dependencies = [
     "typing-extensions",
     "urdf-parser-py",
     "kdl-parser-jvytee @ git+https://github.com/jvytee/kdl_parser.git",
+    "lerobot[dataset]>=0.4.4",
+    "pynput>=1.8.2",
 ]
 
 [project.optional-dependencies]

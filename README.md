@@ -46,6 +46,7 @@ bash scripts/install_pykdl.sh        # 第一次需要编译，之后会自动�
 ## Tutorials
 |file|url|
 |----|-------|
+|tune_camera.py|[还在改 xml 调相机？MuJoCo 交互式可视化调整相机安装位置](https://www.bilibili.com/video/BV1GdbX62EGa/?vd_source=5ba34935b7845cd15c65ef62c64ba82f)|
 |rl_panda_pickup_cube.py|[Mujoco 机械臂 RL 强化学习 Pick and Place Cube 小方块](https://www.bilibili.com/video/BV1YKTG6GEqj/?vd_source=5ba34935b7845cd15c65ef62c64ba82f)|
 |sensordata.py|[Mujoco 仿真中传感器数据（SensorData）获取及使用](https://www.bilibili.com/video/BV1CZovBSEvT/?vd_source=5ba34935b7845cd15c65ef62c64ba82f)|
 |pbvs_mpc.py|[Mujoco 机械臂 MPC 模型预测控制应用 PBVS](https://www.bilibili.com/video/BV1UtSoBPEdr/?vd_source=5ba34935b7845cd15c65ef62c64ba82f)|

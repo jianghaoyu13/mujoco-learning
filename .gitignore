@@ -27,3 +27,8 @@ urdf2mjcf
 lxml/
 urdf_parser_py/
 yaml.py
+
+data/*
+camera_views_debug/*
+docs/*
+*.xml.bak
