@@ -98,3 +98,8 @@ bash scripts/install_pykdl.sh        # 第一次需要编译，之后会自动�
 |get_camera_pic.py|[MuJoCo 相机图片怎么拿？视角调整获取物体图片及实时显示（附代码）](https://www.bilibili.com/video/BV1THGSzvE6t?vd_source=5ba34935b7845cd15c65ef62c64ba82f&spm_id_from=333.788.videopod.sections)|
 |test_why_continuous_2q.py|[Pinocchio导入URDF关节为continuous的问题及详细解释](https://www.bilibili.com/video/BV1tvVrzmEgx?vd_source=5ba34935b7845cd15c65ef62c64ba82f&spm_id_from=333.788.videopod.sections)|
 |contact_detect.py|[MuJoCo 机械臂物体碰撞、接触检测方式一](https://www.bilibili.com/video/BV12WfFYYE4T?vd_source=5ba34935b7845cd15c65ef62c64ba82f&spm_id_from=333.788.videopod.sections)|
+
+## License
+Source code: MIT License
+Documentation: CC‑BY‑4.0
+
