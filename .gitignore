@@ -30,5 +30,4 @@ yaml.py
 
 data/*
 camera_views_debug/*
-docs/*
 *.xml.bak
